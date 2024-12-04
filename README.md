@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas McCamis
 - 👀 I’m interested in cybersecurity and embedded systems programming
-- 🌱 I’m currently learning React, Svelte, C, and JavaScript
+- 🌱 I’m currently learning React, Svelte, C, and TypeScript
 
 
 <!---
