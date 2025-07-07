@@ -3,7 +3,7 @@
 
 ## About Me
 - 🎓 UofC BSc Computer Science Class of 2025
-- 👀 I’m interested in cybersecurity and embedded systems programming
+- 👀 I’m interested in several tech areas including cybersecurity, embedded systems, and full-stack development
 - 🌱 I’m currently learning React, Svelte, C++, and TypeScript
 - 💞️ Lover of the outdoors and nature
 
@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/cplusplus-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%23007ACC.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
